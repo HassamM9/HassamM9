@@ -1,20 +1,22 @@
-### Hi there 👋, I'm Ameer Haider
+### Hi there 👋, I'm Hassan Mansoor
 
-#### FullStack Developer (Laravel, React, Angular, Vue)
+#### Senior FullStack Mean Stack / React Developer 
 
 Skilled FullStack Developer with several successfully funded startups & enterprises for the past 9 years.
 
-Core expertise includes:
+I am a highly experienced full stack developer in 🟢 Mean Stack + React Native from past 8 years. I have work with several funded startups and enterprises.
 
-👉 PHP Laravel, CI, YII development.
+I enjoy working on challenging projects, and have experience in the following areas:
+✅ Angular 2 RC4
+✅ MEAN Stack
+✅ Bootstrap
+✅ Frontend, Backend,
+✅ Cordova, Sphinx
+✅ Payment integrations
+✅ MongoDB,
+✅ HTML/CSS3,, JSON, Git along with API's.
 
-👉 NodeJS and Express / SailsJS development.
-
-👉 ReactJS, AngularJS and VueJS development.
-
-👉 RubyOnRails Development.
-
-👉 Flutter and React Native Development.
+I would love to help you build a state of the art web application just as much as I would enjoy working on existing or legacy projects (developing new features, updating technologies, or bringing best practices and testing in to unstable or poorly structured code).
 
 ✅ For startups: Speed, Flexibility, and Ideas.
 
